@@ -6,7 +6,7 @@ h1 {
     border: 5px solid white;
     border-radius: 15px;
 }
-button {
+.button {
     background-color: steelblue;
     border: black;
     color: white;

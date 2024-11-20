@@ -31,7 +31,7 @@ nav li a {
 nav li a:hover {
     background-color: #111;
 }
-button {
+.button {
         background-color: steelblue;
         border: black;
         color: white;
