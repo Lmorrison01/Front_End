@@ -32,8 +32,7 @@ nav li a:hover {
 }
 
 body {
-    background-image: url(https://images.pexels.com/photos/1643580/pexels-photo-1643580.jpeg?cs=srgb&dl=pexels-scottyofeden-1643580.jpg&fm=jpg&_gl=1*j0aazo*_ga*MjAwOTM3MTU3Mi4xNzMwNzY4MDI0*_ga_8JE65Q40S6*MTczMTcyMTU1MS42LjEuMTczMTcyMTU1Ny4wLjAuMA..);
-    background-repeat: no-repeat;
+   background-color: lightgrey;
     justify-content: center;
     align-items: center;
 }
