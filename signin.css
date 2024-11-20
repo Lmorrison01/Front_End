@@ -1,5 +1,6 @@
 h1 {
-    color: black;
+    color: steelblue;
+    position:relative;
     font-family: Verdana bold;
     text-align: center;
     font-size: 70px;
@@ -7,6 +8,7 @@ h1 {
 
 }
 nav ul {
+    position: relative;
     list-style-type: none;
     margin: 0px;
     padding: 0px;
@@ -38,6 +40,7 @@ body {
 }
 form {
     background-color: rgba(255, 255, 255, 0.5);
+    position: absolute;
     padding: 20px;
     border-radius: 8px;
     width: 100%;
