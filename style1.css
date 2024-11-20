@@ -1,0 +1,94 @@
+h1 {
+    color: steelblue;
+    text-align: center;
+    font-size: 70px;
+    font-style: italic;
+    border: 5px solid white;
+    border-radius: 15px;
+}
+button {
+    background-color: steelblue;
+    border: black;
+    color: white;
+    padding: 15px 32px;
+    float: right;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+}
+button:hover {
+    background-color: black;
+}
+button:active {
+    background-color: white;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: lightslategrey;
+}
+
+nav li {
+    float: left;
+}
+
+nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    font-style: italic;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    background-color: #111;
+}
+body {
+    background-color: lightgrey;
+}
+#info {
+    font-size: 30px;
+    color: steelblue;
+    text-align: left;
+    font-style: italic;
+    display: flex;
+    align-items: flex-start;
+
+}
+#fun {
+    background-color: lightslategrey;
+    text-align: center;
+    color: white;
+    font-style: italic;
+    font-size: 25px;
+    float: center;
+}
+table {
+    height: 40%;
+    left: 10%;
+    margin: 20px auto;
+    overflow-y: scroll;
+    position: static;
+    width: 80%;
+
+}
+
+tr {
+    background: #f4f7f8;
+    border-bottom: 1px solid #FFF;
+    margin-bottom: 5px;
+}
+
+th, td {
+    font-family: 'helvetica', sans-serif;
+    color: steelblue;
+    font-weight: 400;
+    padding: 20px;
+    text-align: left;
+}
+
+
